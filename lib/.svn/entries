@@ -1,31 +1,0 @@
-8
-
-dir
-3
-https://rsay.googlecode.com/svn/trunk/lib
-https://rsay.googlecode.com/svn
-
-
-
-2008-12-07T20:30:43.613860Z
-3
-etozzato
-
-
-svn:special svn:externals svn:needs-lock
-
-rsay.rb
-file
-
-
-
-
-2008-12-07T20:14:27.000000Z
-7684139495441587f931967265a2d9f4
-2008-12-07T20:30:43.613860Z
-3
-etozzato
-
-rsay
-dir
-
