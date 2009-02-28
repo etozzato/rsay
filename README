@@ -1,0 +1,11 @@
+== RSAY 1.0.0 == 
+This is a remake and fusion of code and ideas from rtranslate by YeDingding?, rbabel by Sharon Rosner and google-translate-api by Dookie.
+
+Dookie implemented a JSON parser for the googleapis translation service but put that in a script, both YeDingding? and Sharon Rosner have a gem that parses the html restult of the web interface, leading to immediate spam block by google.
+
+same syntax of rsay:
+
+require "rsay"
+result = Translate.t("Hello my Friend", Language::ENGLISH, Language::ITALIAN)
+
+$rsay -f en -t it 'Hello my Friend!'

@@ -1,0 +1,29 @@
+8
+
+dir
+3
+https://rsay.googlecode.com/svn/trunk/bin
+https://rsay.googlecode.com/svn
+
+
+
+2008-12-07T20:30:43.613860Z
+3
+etozzato
+
+
+svn:special svn:externals svn:needs-lock
+
+rsay
+file
+
+
+
+
+2008-12-07T20:17:35.000000Z
+27257c49c8423ccb86519db125679370
+2008-12-07T20:30:43.613860Z
+3
+etozzato
+has-props
+

@@ -1,0 +1,40 @@
+8
+
+dir
+3
+https://rsay.googlecode.com/svn/trunk/lib/rsay
+https://rsay.googlecode.com/svn
+
+
+
+2008-12-07T20:30:43.613860Z
+3
+etozzato
+
+
+svn:special svn:externals svn:needs-lock
+
+rsay.rb
+file
+
+
+
+
+2008-12-07T20:13:43.000000Z
+5590c4da10140cf70d0bad2e700e58b0
+2008-12-07T20:30:43.613860Z
+3
+etozzato
+
+language.rb
+file
+
+
+
+
+2008-12-01T05:06:33.000000Z
+f52b97201c70800f309eb0a22eb1c844
+2008-12-07T20:30:43.613860Z
+3
+etozzato
+
